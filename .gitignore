@@ -1,0 +1,10 @@
+.DS_Store
+.git
+.idea
+DataFields.numbers
+Raw Data/2016_yelp_dataset_challenge_photos
+Raw Data/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_user.json
+Raw Data/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_review.json
+Raw Data/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_tip.json
+Raw Data/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_business.json
+Raw Data/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_checkin.json
