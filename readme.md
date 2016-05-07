@@ -10,7 +10,7 @@ data using python's dictionary capability and how to perform ordinary least squa
 The final, prepped dataset is included in this repository. The original raw datasets are too large to include, but 
 subsets of the original files and prepped dataset are included for testing. Be advised that due to the double for 
 loops in the last portion of the *prep_data.py* script and lack of Cython/Numpy usage, prepping the dataset can 
-take approximately six hours to convert to csv format.
+take approximately six hours.
 
 ### Dependencies
 
